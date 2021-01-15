@@ -1,6 +1,6 @@
 A pegion is a bird.
 
-for a new repository 
+CLs for a new repository 
 
 git init
 
@@ -15,3 +15,12 @@ git remote add origin https://github.com/SubahAnkita/TestingGit.git
 git push -u origin main
 
 
+after some modifications have benn already done to this folder 
+
+CLs for already created repo
+
+git add -A
+
+git commit -m "second commit"
+
+git push -u origin main 
