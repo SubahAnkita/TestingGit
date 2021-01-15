@@ -1,1 +1,17 @@
 A pegion is a bird.
+
+for a new repository 
+
+git init
+
+git add -A
+
+git commit -m "first commit"
+
+git branch -M main
+
+git remote add origin https://github.com/SubahAnkita/TestingGit.git
+
+git push -u origin main
+
+
